@@ -232,4 +232,4 @@
 // dataFilesDefault = 'carro.txt';
 // </Beta>
 
-dataFiles = ['dados.txt'];
+//dataFiles = ['dados.txt'];
