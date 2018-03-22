@@ -68,7 +68,7 @@
 // pode ser facilmente quebrada por quem entende de tecnologias web. Use
 // apenas para impedir o acesso casual de familiares ou colegas não-nerds.
 //
-myPassword = 'abc123'        ;// Pedir esta senha ao iniciar o app
+// myPassword = 'abc123'        ;// Pedir esta senha ao iniciar o app
 
 
 // IDIOMA
