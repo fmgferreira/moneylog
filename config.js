@@ -231,5 +231,3 @@
 //
 // dataFilesDefault = 'carro.txt';
 // </Beta>
-
-//dataFiles = ['dados.txt'];
